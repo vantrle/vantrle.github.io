@@ -1,0 +1,34 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+env/
+
+# Log files
+*.log
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# OS and temp files
+*.swp
+*.bak
+*.tmp
+
+# Compiled files
+*.o
+*.out
+*.class
+
+# Build and dist
+build/
+dist/
+*.egg-info/
+
+# Node.js
+node_modules/
